@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\bin\Debug\4.exe.config
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\bin\Debug\4.exe
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\bin\Debug\4.pdb
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\obj\Debug\4.csprojAssemblyReference.cache
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\obj\Debug\4.exe
+C:\Users\User\Downloads\rogueLike_2\rogueLike\4\obj\Debug\4.pdb

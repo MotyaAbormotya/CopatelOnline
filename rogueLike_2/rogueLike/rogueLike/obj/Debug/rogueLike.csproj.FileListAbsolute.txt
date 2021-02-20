@@ -1,0 +1,14 @@
+D:\clessons\rogueLike\rogueLike\bin\Debug\rogueLike.exe.config
+D:\clessons\rogueLike\rogueLike\bin\Debug\rogueLike.exe
+D:\clessons\rogueLike\rogueLike\bin\Debug\rogueLike.pdb
+D:\clessons\rogueLike\rogueLike\obj\Debug\rogueLike.csprojAssemblyReference.cache
+D:\clessons\rogueLike\rogueLike\obj\Debug\rogueLike.csproj.CoreCompileInputs.cache
+D:\clessons\rogueLike\rogueLike\obj\Debug\rogueLike.exe
+D:\clessons\rogueLike\rogueLike\obj\Debug\rogueLike.pdb
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\bin\Debug\rogueLike.exe.config
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\bin\Debug\rogueLike.exe
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\bin\Debug\rogueLike.pdb
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\obj\Debug\rogueLike.csprojAssemblyReference.cache
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\obj\Debug\rogueLike.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\obj\Debug\rogueLike.exe
+C:\Users\User\Downloads\rogueLike_2\rogueLike\rogueLike\obj\Debug\rogueLike.pdb
